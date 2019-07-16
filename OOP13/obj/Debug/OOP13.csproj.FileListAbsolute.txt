@@ -1,0 +1,48 @@
+\\Mac\Home\Desktop\OOP13\OOP13\bin\Debug\OOP13.exe.config
+\\Mac\Home\Desktop\OOP13\OOP13\bin\Debug\OOP13.exe
+\\Mac\Home\Desktop\OOP13\OOP13\bin\Debug\OOP13.pdb
+\\Mac\Home\Desktop\OOP13\OOP13\obj\Debug\OOP13.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\OOP13\OOP13\obj\Debug\MainWindow.baml
+\\Mac\Home\Desktop\OOP13\OOP13\obj\Debug\UnitWindow.baml
+\\Mac\Home\Desktop\OOP13\OOP13\obj\Debug\MainWindow.g.cs
+\\Mac\Home\Desktop\OOP13\OOP13\obj\Debug\UnitWindow.g.cs
+\\Mac\Home\Desktop\OOP13\OOP13\obj\Debug\App.g.cs
+\\Mac\Home\Desktop\OOP13\OOP13\obj\Debug\OOP13_MarkupCompile.cache
+\\Mac\Home\Desktop\OOP13\OOP13\obj\Debug\OOP13.g.resources
+\\Mac\Home\Desktop\OOP13\OOP13\obj\Debug\OOP13.Properties.Resources.resources
+\\Mac\Home\Desktop\OOP13\OOP13\obj\Debug\OOP13.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\OOP13\OOP13\obj\Debug\OOP13.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\OOP13\OOP13\obj\Debug\OOP13.exe
+\\Mac\Home\Desktop\OOP13\OOP13\obj\Debug\OOP13.pdb
+\\Mac\Home\Desktop\ООП\OOP13\OOP13\bin\Debug\OOP13.exe.config
+\\Mac\Home\Desktop\ООП\OOP13\OOP13\bin\Debug\OOP13.exe
+\\Mac\Home\Desktop\ООП\OOP13\OOP13\bin\Debug\OOP13.pdb
+\\Mac\Home\Desktop\ООП\OOP13\OOP13\obj\Debug\OOP13.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\ООП\OOP13\OOP13\obj\Debug\MainWindow.baml
+\\Mac\Home\Desktop\ООП\OOP13\OOP13\obj\Debug\UnitWindow.baml
+\\Mac\Home\Desktop\ООП\OOP13\OOP13\obj\Debug\MainWindow.g.cs
+\\Mac\Home\Desktop\ООП\OOP13\OOP13\obj\Debug\UnitWindow.g.cs
+\\Mac\Home\Desktop\ООП\OOP13\OOP13\obj\Debug\App.g.cs
+\\Mac\Home\Desktop\ООП\OOP13\OOP13\obj\Debug\OOP13_MarkupCompile.cache
+\\Mac\Home\Desktop\ООП\OOP13\OOP13\obj\Debug\OOP13.g.resources
+\\Mac\Home\Desktop\ООП\OOP13\OOP13\obj\Debug\OOP13.Properties.Resources.resources
+\\Mac\Home\Desktop\ООП\OOP13\OOP13\obj\Debug\OOP13.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\ООП\OOP13\OOP13\obj\Debug\OOP13.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\ООП\OOP13\OOP13\obj\Debug\OOP13.exe
+\\Mac\Home\Desktop\ООП\OOP13\OOP13\obj\Debug\OOP13.pdb
+\\Mac\Home\Desktop\Учёба\2 курс 2 сем\ООП\OOP13\OOP13\bin\Debug\OOP13.exe.config
+\\Mac\Home\Desktop\Учёба\2 курс 2 сем\ООП\OOP13\OOP13\bin\Debug\OOP13.exe
+\\Mac\Home\Desktop\Учёба\2 курс 2 сем\ООП\OOP13\OOP13\bin\Debug\OOP13.pdb
+\\Mac\Home\Desktop\Учёба\2 курс 2 сем\ООП\OOP13\OOP13\obj\Debug\OOP13.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Учёба\2 курс 2 сем\ООП\OOP13\OOP13\obj\Debug\MainWindow.baml
+\\Mac\Home\Desktop\Учёба\2 курс 2 сем\ООП\OOP13\OOP13\obj\Debug\UnitWindow.baml
+\\Mac\Home\Desktop\Учёба\2 курс 2 сем\ООП\OOP13\OOP13\obj\Debug\MainWindow.g.cs
+\\Mac\Home\Desktop\Учёба\2 курс 2 сем\ООП\OOP13\OOP13\obj\Debug\UnitWindow.g.cs
+\\Mac\Home\Desktop\Учёба\2 курс 2 сем\ООП\OOP13\OOP13\obj\Debug\App.g.cs
+\\Mac\Home\Desktop\Учёба\2 курс 2 сем\ООП\OOP13\OOP13\obj\Debug\OOP13_MarkupCompile.cache
+\\Mac\Home\Desktop\Учёба\2 курс 2 сем\ООП\OOP13\OOP13\obj\Debug\OOP13.g.resources
+\\Mac\Home\Desktop\Учёба\2 курс 2 сем\ООП\OOP13\OOP13\obj\Debug\OOP13.Properties.Resources.resources
+\\Mac\Home\Desktop\Учёба\2 курс 2 сем\ООП\OOP13\OOP13\obj\Debug\OOP13.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Учёба\2 курс 2 сем\ООП\OOP13\OOP13\obj\Debug\OOP13.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Учёба\2 курс 2 сем\ООП\OOP13\OOP13\obj\Debug\OOP13.exe
+\\Mac\Home\Desktop\Учёба\2 курс 2 сем\ООП\OOP13\OOP13\obj\Debug\OOP13.pdb
